@@ -1,0 +1,26 @@
+*{/*utilizamos un selector universal para que afecte a todos por igual*/
+  box-sizing: border-box;/*sirve para que  respete el ancho de los elementos bloque*/
+  margin-bottom:7px; /*sirve para dar margen al elemento bloque div en la parte superior*/
+  margin-left:5px; /*margen en la parte izquierda del elemento bloque div*/
+  margin-right:5px;/*hacemos lo mismo para la parte derecha del elemento div*/
+  text-indent: 10px;/*sirve para crear un espacio entre el margen y el texto*/
+  height: 100px; /*le ponemos una altura de 100 pixeles */
+}
+#franja1{/*selector de tipo id(único )*/
+
+  background-color: #FFC300;/*le ponemos un fondo de color del  codigo amarillo  */
+  padding-top: 5px;/*ponemos un relleno en la parte superior  */
+}
+
+#franja2{
+  background-color:#2E2D2C;/*poner un fondo de color del codigo griss*/
+  color:white;/*indicamos un color blanco para el texto */
+  padding-top: 5px;/*indicamos un relleno de lado superior */
+
+}
+
+#franja3{
+  background-color:#FFC300;/*fondo de color*/
+  padding-top: 5px;/*relleno en la parte superior */
+
+}
